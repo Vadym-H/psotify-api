@@ -8,6 +8,7 @@
 
 - **CRUD Operations** – Create, retrieve, update, and delete songs.
 - **Validation** – Ensures data integrity through model validation.
+- **JWT** - For Authentication and Authorization
 - **AutoMapper Integration** – Simplifies object-to-object mapping between models and DTOs.
 - **Entity Framework Core** – Manages data access.
 - **Dependency Injection** – Promotes modularity and testability.
